@@ -1,4 +1,4 @@
-[![Test Package](https://github.com/alanschlindvein/closure_state/actions/workflows/yarn-test-workflow.yml/badge.svg)](https://github.com/alanschlindvein/closure_state/actions/workflows/yarn-test-workflow.yml)
+[![test](https://github.com/alanschlindvein/closure_state/actions/workflows/yarn-test-workflow.yml/badge.svg?branch=main)](https://github.com/alanschlindvein/closure_state/actions/workflows/yarn-test-workflow.yml)
 
 # closure_state
 
