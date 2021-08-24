@@ -1,0 +1,26 @@
+{
+  "name": "closure_state",
+  "version": "1.0.0",
+  "author": "Alan Araujo <alansaraujo.schlindvein@gmail.com>",
+  "main": "src/index.js",
+  "license": "MIT",
+  "files": [
+    "src",
+    "LICENSE",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanschlindvein/closure_state"
+  },
+  "keywords": [
+    "state"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "7.15.0",
+    "jest": "27.0.6"
+  }
+}
